@@ -145,6 +145,65 @@ Links will be added as these repositories become available.
 
 ---
 
+## 🔗 Useful Links
+
+### 🌍 Forest Monitoring Systems
+- **PRODES (INPE)** – Official Brazilian deforestation monitoring program  
+  https://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes
+
+- **DETER (INPE)** – Near real-time deforestation detection system  
+  https://www.obt.inpe.br/OBT/assuntos/programas/amazonia/deter
+
+- **GLAD Alerts (University of Maryland)** – Global forest disturbance alerts  
+  https://glad.umd.edu
+
+- **RADD Alerts (Wageningen University & Research)** – Radar-based deforestation alerts  
+  https://www.raddalerts.org
+
+- **TropiSCO** – Tropical forest disturbance monitoring initiative  
+  https://tropisco.org
+
+---
+
+### 🛰️ Earth Observation Data Sources
+- **Sentinel-1 / Sentinel-2 (ESA Copernicus Programme)**  
+  https://sentinel.esa.int
+
+- **Landsat Collection (USGS / NASA)**  
+  https://www.usgs.gov/landsat-missions
+
+- **Brazil Data Cube (INPE)** – Analysis Ready Data for Brazil  
+  https://brazildatacube.org
+
+---
+
+### 🧠 Time Series and Change Detection
+- **LandTrendr** – Time series change detection framework  
+  https://emapr.github.io/LT-GEE
+
+- **BFAST** – Breaks For Additive Season and Trend  
+  https://bfast.r-forge.r-project.org
+
+- **CCDC** – Continuous Change Detection and Classification  
+  https://github.com/klh5/CCDC
+
+---
+
+### 🧰 Tools and Libraries
+- **R Project for Statistical Computing**  
+  https://www.r-project.org
+
+- **terra (R package)** – Raster data processing  
+  https://rspatial.org/terra
+
+- **sf (R package)** – Simple features for spatial data  
+  https://r-spatial.github.io/sf
+
+- **STAC Specification** – SpatioTemporal Asset Catalogs  
+  https://stacspec.org
+
+---
+
 ## 🤝 Contributing
 
 Researchers, developers, and remote sensing specialists are welcome to contribute.  
