@@ -6,19 +6,6 @@ The project aims to support **near real-time environmental monitoring** over the
 
 ---
 
-## 🧭 Project Components
-
-- **Reference sample construction**  
-  Creation and validation of disturbance and non-disturbance samples using multiple monitoring systems.
-
-- **Forest disturbance alert generation**  
-  Development of automatic algorithms to produce spatially explicit alerts.
-
-- **Alert time series analysis**  
-  Analysis of the temporal behavior and consistency of detected disturbances.
-
----
-
 ## 📦 Main Repositories
 
 The core components of the project are available in the pinned repositories below ⬇️  
