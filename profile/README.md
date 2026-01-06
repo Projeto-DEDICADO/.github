@@ -15,8 +15,6 @@ Each repository focuses on a specific stage of the DEDICADO workflow.
 
 ## 🔗 Key References
 
-- PRODES & DETER – INPE forest monitoring systems  
-- GLAD & RADD – Global and radar-based forest disturbance alerts  
-- Sentinel & Landsat satellite image time series  
+- [Project Report](https://app.crixet.com/?u=38744528-1d11-44ed-8724-54f6067dc189&pg=1)
 
 Detailed technical documentation is available in the main project repository.
